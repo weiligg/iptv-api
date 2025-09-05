@@ -1,26 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-05 06:15:07,https://cc06.tv12.xyz/1.m3u8
+2025-09-05 18:16:10,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
 
 📺央视频道,#genre#
-CCTV-1,https://cc06.tv12.xyz/1.m3u8
-CCTV-2,https://cc06.tv12.xyz/2.m3u8
-CCTV-3,https://cc06.tv12.xyz/3.m3u8
-CCTV-4,https://cc06.tv12.xyz/4.m3u8
-CCTV-5,https://cc06.tv12.xyz/5.m3u8
-CCTV-5+,https://cc06.tv12.xyz/6.m3u8
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
-CCTV-6,https://cc06.tv12.xyz/7.m3u8
-CCTV-7,https://cc06.tv12.xyz/8.m3u8
-CCTV-8,https://cc06.tv12.xyz/9.m3u8
-CCTV-9,https://cc06.tv12.xyz/10.m3u8
-CCTV-10,https://cc06.tv12.xyz/11.m3u8
-CCTV-11,https://cc06.tv12.xyz/12.m3u8
-CCTV-12,https://cc06.tv12.xyz/13.m3u8
-CCTV-13,https://cc06.tv12.xyz/14.m3u8
-CCTV-14,https://cc06.tv12.xyz/15.m3u8
-CCTV-15,https://cc06.tv12.xyz/16.m3u8
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
-CCTV-17,https://cc06.tv12.xyz/17.m3u8
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy
 CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy
 CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
@@ -64,8 +47,6 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 江苏教育,https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 江苏教育,https://mursor.ottiptv.cc/migu/628008321.m3u8?migutoken=f23d4bcff80819f435db9a666e24d1bb6cb7daed4d5f480936906885f3d62861b56b769a71332c450d31bc8d287919f595d3e6345a45469a801811eaae8da0bc75fecc6ad6284507ffd4495d3d
 连云港新闻综合,https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-
-☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
 
@@ -123,3 +104,5 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
