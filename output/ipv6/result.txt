@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-30 18:15:53,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+2025-10-01 06:15:53,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 
 📺央视频道,#genre#
 
@@ -31,6 +31,7 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 
@@ -44,7 +45,6 @@
 ☘️河北频道,#genre#
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 
 ☘️甘肃频道,#genre#
