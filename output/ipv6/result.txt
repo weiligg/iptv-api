@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-03 18:16:34,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+2025-10-04 06:13:08,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 
 📺央视频道,#genre#
 
@@ -22,15 +22,12 @@
 
 ☘️重庆频道,#genre#
 
-☘️江苏频道,#genre#
-
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 
@@ -48,8 +45,6 @@
 ☘️新疆频道,#genre#
 
 ☘️山东频道,#genre#
-
-☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
 
