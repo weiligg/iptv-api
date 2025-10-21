@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-21 06:15:42,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+2025-10-21 18:16:10,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 
 📺央视频道,#genre#
 
@@ -57,7 +57,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-五星体育,https://other.ottiptv.cc/wxty.m3u8
 
 🪁动画频道,#genre#
 
