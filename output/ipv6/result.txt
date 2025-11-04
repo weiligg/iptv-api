@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-04 18:19:39,http://live.iwcmt.cn:90/live/zhxw.m3u8
+2025-11-05 06:13:52,http://live.iwcmt.cn:90/live/zhxw.m3u8
 
 📺央视频道,#genre#
 
@@ -21,7 +21,6 @@
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 ☘️福建频道,#genre#
 
