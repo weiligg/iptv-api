@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:14:37,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+2025-11-20 18:17:13,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📡卫视频道,#genre#
 
@@ -25,9 +25,6 @@
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
-洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
-洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 
 ☘️河北频道,#genre#
 
