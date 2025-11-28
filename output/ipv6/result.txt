@@ -1,7 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-28 06:14:26,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-
-📺央视频道,#genre#
+2025-11-28 18:17:20,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📡卫视频道,#genre#
 
@@ -44,7 +42,6 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🎬电影频道,#genre#
-CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
