@@ -1,7 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:14:27,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-
-📺央视频道,#genre#
+2025-12-01 18:18:29,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📡卫视频道,#genre#
 
@@ -44,6 +42,7 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🎬电影频道,#genre#
+经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
