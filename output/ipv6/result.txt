@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-12 18:17:37,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-13 06:15:22,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📡卫视频道,#genre#
 
@@ -15,6 +15,8 @@
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 
 ☘️重庆频道,#genre#
+
+☘️江苏频道,#genre#
 
 ☘️广西频道,#genre#
 
