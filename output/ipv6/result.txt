@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2025-12-17 06:15:51,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+2025-12-17 18:18:44,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
+
+☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -22,6 +24,8 @@
 ☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
+
+☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
 
