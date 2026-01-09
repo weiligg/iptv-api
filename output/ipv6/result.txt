@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-09 06:18:36,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+2026-01-09 18:18:13,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📺央视频道,#genre#
 
@@ -41,8 +41,6 @@
 ☘️吉林频道,#genre#
 
 ☘️内蒙古频道,#genre#
-
-☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
