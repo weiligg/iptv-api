@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-10 18:16:24,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+2026-01-11 06:15:06,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📺央视频道,#genre#
 
@@ -18,8 +18,6 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-
-☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
 
