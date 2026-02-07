@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-07 18:19:30,https://cdn3.163189.xyz/163189/cctv13
+2026-02-08 06:19:54,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -45,7 +45,6 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 ☘️吉林频道,#genre#
 
 ☘️青海频道,#genre#
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -53,7 +52,5 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-
-🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
