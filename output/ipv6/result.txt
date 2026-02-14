@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-14 06:27:02,https://cdn3.163189.xyz/163189/cctv13
+2026-02-14 18:21:00,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -54,11 +54,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-七龙珠,https://live.metshop.top/huya/11601966
-猫和老鼠,https://live.metshop.top/huya/11352879
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
