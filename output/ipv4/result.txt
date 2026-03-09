@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-09 18:39:34,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-03-10 06:22:07,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -19,10 +19,6 @@
 
 ☘️广东频道,#genre#
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
-
-☘️浙江频道,#genre#
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
