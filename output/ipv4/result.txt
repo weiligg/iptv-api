@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-13 18:30:29,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-03-14 06:22:14,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -38,7 +38,6 @@
 ☘️四川频道,#genre#
 
 ☘️福建频道,#genre#
-厦门卫视,http://125.42.150.235:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 
@@ -70,8 +69,6 @@
 🌊港·澳·台,#genre#
 
 🏀体育频道,#genre#
-
-🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
