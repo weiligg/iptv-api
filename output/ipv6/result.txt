@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-29 19:25:48,https://xykt-fix.github.io/Y77.m3u8
+2026-04-30 06:52:28,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
