@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-07 19:43:55,https://xykt-fix.github.io/Y77.m3u8
+2026-05-08 06:56:08,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
@@ -19,8 +19,6 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-
-☘️福建频道,#genre#
 
 ☘️海南频道,#genre#
 
