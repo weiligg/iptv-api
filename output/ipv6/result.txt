@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-08 06:56:08,https://xykt-fix.github.io/Y77.m3u8
+2026-05-08 19:06:28,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
@@ -38,5 +38,7 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
