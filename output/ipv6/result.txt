@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-05-08 19:06:28,https://xykt-fix.github.io/Y77.m3u8
+2026-05-09 06:52:23,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 
 📡卫视频道,#genre#
+
+☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 
