@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-23 06:52:10,https://cdn3.163189.xyz/163189/cctv13
+2026-05-23 19:05:04,http://221.13.235.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-10,http://221.13.235.105:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -59,5 +60,5 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
