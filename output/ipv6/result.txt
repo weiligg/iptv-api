@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 20:50:21,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+2026-06-11 07:20:51,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 
 📡卫视频道,#genre#
 
