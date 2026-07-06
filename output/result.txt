@@ -1,14 +1,31 @@
 🕘️更新时间,#genre#
-2026-07-06 06:56:50,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-07-06 21:42:29,http://101.66.194.186:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+
+📺央视频道,#genre#
+CCTV-14,http://101.66.194.186:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://101.66.194.186:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+重庆卫视,http://101.66.194.151:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://123.163.114.168:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://101.66.194.186:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://101.66.194.151:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.194.151:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://101.66.194.151:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.194.151:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://101.66.194.186:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.151:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.194.186:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.194.151:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+
+☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -25,12 +42,21 @@
 
 ☘️广西频道,#genre#
 
+☘️天津频道,#genre#
+
 ☘️四川频道,#genre#
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+
+☘️福建频道,#genre#
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+
+☘️河南频道,#genre#
+洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
+洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 
 ☘️河北频道,#genre#
 
@@ -51,6 +77,10 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 🏀体育频道,#genre#
+
+🪁动画频道,#genre#
+金鹰卡通,http://125.42.150.233:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.194.151:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
