@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-15 06:51:53,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-15 19:25:05,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
