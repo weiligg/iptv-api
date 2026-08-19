@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-19 18:24:46,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+2026-08-20 06:18:47,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-
-☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -16,8 +14,6 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -40,6 +36,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🏀体育频道,#genre#
 
-🪁动画频道,#genre#
-
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/23865142
