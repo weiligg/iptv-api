@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 06:20:50,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
+2026-08-26 18:29:33,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 
 📺央视频道,#genre#
 
@@ -7,8 +7,6 @@
 
 📡卫视频道,#genre#
 广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
-
-☘️广东频道,#genre#
 
 ☘️北京频道,#genre#
 
@@ -36,8 +34,6 @@
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-
-🎬电影频道,#genre#
 
 🏀体育频道,#genre#
 
