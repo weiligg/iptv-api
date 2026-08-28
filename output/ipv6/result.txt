@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 13:54:42,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+2026-08-29 05:03:34,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 
 📺央视频道,#genre#
 
@@ -36,6 +36,10 @@
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+
+🎬电影频道,#genre#
+无线星河,http://r.jdshipin.com/sXuuD
+无线星河,http://r.jdshipin.com/Voac4
 
 🏀体育频道,#genre#
 
