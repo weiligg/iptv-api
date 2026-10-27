@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-10-27 00:24:18,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+2026-10-27 09:02:17,https://php.jdshipin.com/TVOD/iptv.php
 
 📺央视频道,#genre#
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
 
 💰央视付费频道,#genre#
 
@@ -37,5 +38,3 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
