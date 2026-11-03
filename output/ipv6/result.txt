@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-11-03 11:14:28,https://php.jdshipin.com/TVOD/iptv.php
+2026-11-04 01:28:14,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 📺央视频道,#genre#
-CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
 
 💰央视付费频道,#genre#
 
