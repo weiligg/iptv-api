@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-03 03:56:52,https://php.jdshipin.com/TVOD/iptv.php
+2026-11-03 11:14:28,https://php.jdshipin.com/TVOD/iptv.php
 
 📺央视频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
@@ -8,8 +8,6 @@ CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
 
 📡卫视频道,#genre#
 
-☘️广东频道,#genre#
-
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
@@ -17,8 +15,6 @@ CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 

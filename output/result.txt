@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-03 03:56:52,https://php.jdshipin.com/TVOD/iptv.php
+2026-11-03 11:14:28,https://php.jdshipin.com/TVOD/iptv.php
 
 📺央视频道,#genre#
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php
@@ -31,8 +31,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-☘️广东频道,#genre#
-
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
@@ -42,8 +40,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bc
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
